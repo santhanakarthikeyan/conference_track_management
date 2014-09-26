@@ -1,0 +1,11 @@
+START_TIME: 
+  hour: '9'
+END_TIME:
+  hour: '17'
+  threshold: '60'
+LUNCH_BREAK:
+  start_time: 
+    hour: '12'
+  end_time: 
+    hour: '13'
+  duration: 60
